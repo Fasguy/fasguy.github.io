@@ -1,0 +1,12 @@
+@font-face {
+	font-family: 'Consequent';
+	src: url('Consequent.eot');
+	src: url('Consequent.eot?#iefix') format('embedded-opentype'),
+		url('Consequent.woff2') format('woff2'),
+		url('Consequent.woff') format('woff'),
+		url('Consequent.ttf') format('truetype'),
+		url('Consequent.svg#Consequent') format('svg');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
